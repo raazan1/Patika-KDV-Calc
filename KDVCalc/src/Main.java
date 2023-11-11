@@ -11,7 +11,7 @@ public class Main {
 
         }
         else {
-            Small(Price,kdv);
+            Big(Price,kdv);
         }
 
 
